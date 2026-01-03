@@ -1,4 +1,4 @@
-# �️ StoreAdmin Catalog Inventory Portal
+#  StoreAdmin Catalog Inventory Portal
 
 <div align="center">
   <img alt="React" src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react">
@@ -63,7 +63,7 @@ A modern web application for store managers to efficiently manage inventory, vie
 - **Styling**: Tailwind CSS + DaisyUI
 - **Build Tool**: Vite
 - **Routing**: React Router
-- **API**: DummyJSON (https://dummyjson.com/docs/products)
+- **API**
 
 ## 📦 Project Structure
 
