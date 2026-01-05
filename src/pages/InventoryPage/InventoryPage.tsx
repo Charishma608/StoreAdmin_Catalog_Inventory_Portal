@@ -249,6 +249,8 @@ const InventoryPage = () => {
             <option value="title-desc">Name (Z–A)</option>
             <option value="price-asc">Price ↑</option>
             <option value="price-desc">Price ↓</option>
+            <option value="stock-desc">Stock (High to Low)</option>
+            <option value="stock-asc">Stock (Low to High)</option>
           </select>
         </div>
 
@@ -318,3 +320,4 @@ const InventoryPage = () => {
 };
 
 export default InventoryPage;
+
